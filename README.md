@@ -8,7 +8,7 @@ Pour faire tourner ce projet en local sur votre machine, suivez ces étapes :
 
 **1. Cloner le projet**
 Récupérez le code sur votre ordinateur via Git :
-`git clone [LIEN_DE_VOTRE_DEPOT_GITHUB_ICI]`
+`git clone https://github.com/Mathieu-165/Pirate_ML_notebook`
 
 **2. Créer l'environnement virtuel**
 Ouvrez le dossier du projet dans VS Code, ouvrez un terminal ("Terminal" > "New terminal") et créez une "boîte isolée" pour les bibliothèques :
