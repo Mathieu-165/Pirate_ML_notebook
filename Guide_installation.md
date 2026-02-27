@@ -27,7 +27,7 @@ Bienvenue sur le projet ! Pour que l'on puisse coder ensemble sans risquer de ca
    C'est notre éditeur de code. Télécharge-le sur [code.visualstudio.com](https://code.visualstudio.com/) et installe-le.
 3. **GitHub Desktop (Fortement recommandé)**
    C'est une interface visuelle très pratique pour ne pas avoir à taper des lignes de commande complexes pour récupérer ou envoyer le code.
-   Télécharge-le sur desktop.github.com.
+   Télécharge-le sur [desktop.github.com](https://github.com/apps/desktop)
  	Ouvre-le et connecte-toi avec ton compte GitHub.
 
 **---**
