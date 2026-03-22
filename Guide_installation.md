@@ -75,7 +75,7 @@ Pour ne pas polluer ton PC avec les lourdes bibliothèques de Machine Learning, 
 
 ##### **Phase 6 : Lancer le Machine Learning ! 🚀**   
 
-1. Toujours dans VS Code, ouvre notre fichier principal (`notebook\_v4.ipynb`).
+1. Toujours dans VS Code, ouvre notre fichier principal (`notebook_ml.ipynb`).
 2. En haut à droite de l'écran, tu verras un bouton "**Select Kernel**" (ou la version de Python). Clique dessus.
 3. Choisis "**Python Environments**"**.**
 4. Sélectionne celui qui s'appelle **Python X.X.X ('.venv': venv)** (il y a souvent une petite étoile ★ à côté).

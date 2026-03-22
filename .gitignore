@@ -7,4 +7,4 @@ env/
 __pycache__/
 *.ipynb_checkpoints/
 .DS_Store
-
+Guide_installation.md
